@@ -1,1 +1,1 @@
-# ReactNative-MobxStateTree
+# ReactNative-INIT-PROJECT
